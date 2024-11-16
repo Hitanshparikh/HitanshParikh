@@ -16,7 +16,9 @@ I'm a passionate coder and creative freelancer with over 4 years of experience i
 - NextJS
 - ThreeJS
 - React
-
+- PHP
+- SQL DBMS
+  
 ## 🏓 Hobbies:
 - Playing table tennis and chess to keep my mind sharp and active.
 
