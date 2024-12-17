@@ -29,7 +29,7 @@ I'm a passionate coder and creative freelancer with over 4 years of experience i
 Explore my projects and see what I’ve been working on: [hitanshparikh.com](http://hitanshparikh.com)
 
 Let's connect and create something amazing together!
-Email: admin@hitanshparikh.com
+Email: contact@hitanshparikh.com
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/itansp) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/madkillerhitansh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hitansh_parikh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hitansh-parikh-048420321/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Hitansh-Parikh-2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCwggDYbxMTB4AtuiYAOha3Q) 
