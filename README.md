@@ -26,7 +26,7 @@ I'm a passionate coder and creative freelancer with over 4 years of experience i
 - I can eat cold pizza while coding—multitasking at its finest!
 
 ## 📈 Portfolio:
-Explore my projects and see what I’ve been working on: [hitanshparikh.github.io](http://hitanshparikh.github.io)
+Explore my projects and see what I’ve been working on: [hitanshparikh.com](http://hitanshparikh.com)
 
 Let's connect and create something amazing together!
 Email: admin@hitanshparikh.com
