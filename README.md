@@ -23,7 +23,7 @@ I'm a passionate coder and creative freelancer with over 4 years of experience i
 - Playing table tennis and chess to keep my mind sharp and active.
 
 ## 🍕 Fun Fact:
-- I can eat cold pizza while coding—multitasking at its finest!
+- I can hack you
 
 ## 📈 Portfolio:
 Explore my projects and see what I’ve been working on: [hitanshparikh.com](http://hitanshparikh.com)
