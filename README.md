@@ -26,7 +26,7 @@ I'm a passionate coder and creative freelancer with over 4 years of experience i
 - I can hack you
 
 ## 📈 Portfolio:
-Explore my projects and see what I’ve been working on: [hitanshparikh.com]([http://hitanshparikh.com](https://hitanshparikh.github.io/))
+Explore my projects and see what I’ve been working on: [hitanshparikh.com]([http://hitanshparikhgithub.io])
 
 Let's connect and create something amazing together!
 Email: contact@hitanshparikh.com
