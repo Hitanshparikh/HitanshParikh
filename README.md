@@ -90,7 +90,7 @@ Current State : Shipping.
 ## Contribution Snake
 
 ```html
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/hitanshparikh/hitanshparikh/output/github-contribution-grid-snake-dark.svg">
 ```
 
 ## Skyline
