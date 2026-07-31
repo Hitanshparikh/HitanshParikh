@@ -1,7 +1,28 @@
 # 💫 About Me:
 # Hi, I'm Hitansh Parikh! 🌟
 
-I'm a passionate coder and creative freelancer with over 4 years of experience in web development, 3D art, animation, video creation, and graphic design. My journey through the world of technology and design has been nothing short of thrilling!
+“Jack of All Trades, Master of All, oftentimes better than a master of one | Full-Stack Developer | 3D Artist | Animator | Marketing Specialist | Turning Ideas into Impactful Digital Experiences”
+
+A multi-talented professional with expertise in web development, 3D modeling, animation, video editing, graphic design, and marketing. My journey began in 2020, and since then, I’ve successfully delivered 50+ projects for companies, businesses, startups, and individuals.
+
+As a full-stack developer, I specialize in crafting dynamic, user-friendly websites and managing hosting, domains, and integrations like Google Workspace. I’ve also designed and developed portfolio websites, business solutions, and creative online platforms for a diverse range of clients.
+
+In 2024, I established Hi-Viz Studios, a creative hub where I work on music videos, short films, and digital content that has garnered 2M+ views on Instagram reels. I bring stories to life through 3D modeling, animation, and video production while pushing creative boundaries.
+
+My role as a Marketing Manager further allowed me to gain hands-on experience in designing catalogs, websites, social media content, and ads while collaborating with teams to execute impactful campaigns.
+
+I’m passionate about turning ideas into reality and leveraging my technical, creative, and business skills to deliver exceptional results. Let’s connect and create something amazing together!
+
+Over 6+ years of experience, Made over 100+ websites, over 30+ proper professional creative 3d based websites, with animation skills and production level experience and knowledge, and 6+ years of experience in Blender, Cinema4D, Unity, Unreal Engine, RedShift, Rhino3D, and many other 3d modelling and animation based softwares, check out my website and few of my projects:
+Portfolio:
+https://hitanshparikh.com/
+
+best 3d website that imade so far:
+https://lnkd.in/duEj5bXr
+https://lnkd.in/dtHPMKi5
+
+Have freelancing experience over 6 years, only providing best quality with creativity, and immersive experience.
+Have proper professional experience on working with Figma, Framer, Webflow, Spline, canvas, design,com and strong experience with GSAP, Three.JS, WebGL and R3F based animations and elements integration in websites, also have good grip on Node.JS, React, Next.JS, Python, Yolo26, pytorch, also I have good grip on PHP/Laravel, basically I am full stack developer with extremely good level of creativity and already experienced to work with companies. 
 
 ## 🚀 What I Do:
 - **Web Development:** Building beautiful, functional websites with a knack for detail and a love for clean code.
