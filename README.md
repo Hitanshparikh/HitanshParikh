@@ -66,7 +66,8 @@ Email: [hitanshpparikh@gmail.com](mailto:hitanshpparikh@gmail.com)
 
 
 ## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Hitanshparikh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=Hitanshparikh&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### 🔝 Featured Repository
 <p align="center">
