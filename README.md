@@ -108,8 +108,9 @@ Email: [hitanshpparikh@gmail.com](mailto:hitanshpparikh@gmail.com)
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,24&height=120&section=footer&text=7,845+%20Visitors%20&fontSize=22&fontColor=ffffff&animation=fadeIn&desc=Thank%20you%20for%20stopping%20by%20•%20Hitansh%20Parikh&descSize=11&descAlignY=70&descColor=c9d1d9" width="100%" alt="Footer Counter" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&stroke=58a6ff&strokeAlign=inside&strokeWidth=1.5&height=64&section=header&text=✦%207,845+%20PROFILE%20IMPRESSIONS%20✦&fontSize=16&fontColor=ffffff&animation=twinkling&desc=REAL-TIME%20COMMERCIAL%20PORTFOLIO%20TRAFFIC&descSize=9&descAlign=50&descAlignY=72&descColor=58a6ff" alt="Profile Impressions" />
 </p>
+
 
 
 
