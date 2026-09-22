@@ -108,10 +108,9 @@ Email: [hitanshpparikh@gmail.com](mailto:hitanshpparikh@gmail.com)
 ---
 
 <p align="center">
-  <a href="https://hitanshparikh.com">
-    <img src="https://img.shields.io/badge/LIVE_TRAFFIC-7,845%2B%20IMPRESSIONS-0d1117?style=for-the-badge&logo=prometheus&logoColor=58a6ff&labelColor=161b22" height="36" alt="Live Impressions" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,24&height=120&section=footer&text=7,845+%20Visitors%20&fontSize=22&fontColor=ffffff&animation=fadeIn&desc=Thank%20you%20for%20stopping%20by%20•%20Hitansh%20Parikh&descSize=11&descAlignY=70&descColor=c9d1d9" width="100%" alt="Footer Counter" />
 </p>
+
 
 
 ## 💰 You can help me by Donating
