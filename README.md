@@ -108,7 +108,9 @@ Email: [hitanshpparikh@gmail.com](mailto:hitanshpparikh@gmail.com)
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&stroke=58a6ff&strokeAlign=inside&strokeWidth=1.5&height=64&section=header&text=✦%207,845+%20PROFILE%20IMPRESSIONS%20✦&fontSize=16&fontColor=ffffff&animation=twinkling&desc=REAL-TIME%20COMMERCIAL%20PORTFOLIO%20TRAFFIC&descSize=9&descAlign=50&descAlignY=72&descColor=58a6ff" alt="Profile Impressions" />
+  <a href="https://hitanshparikh.com">
+    <img src="https://img.shields.io/badge/LIVE_TRAFFIC-7,845%2B%20IMPRESSIONS-0d1117?style=for-the-badge&logo=prometheus&logoColor=58a6ff&labelColor=161b22" height="36" alt="Live Profile Views" />
+  </a>
 </p>
 
 
