@@ -65,11 +65,9 @@ Email: [hitanshpparikh@gmail.com](mailto:hitanshpparikh@gmail.com)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitanshparikh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
 
 
-# 📊 GitHub Stats & Activity
-<!-- 290-Day Active Streak Badge (Working 100%) -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hitanshparikh&theme=dark&hide_border=false&cache_seconds=1800" alt="GitHub Streak" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-trophies.vercel.app/?username=Hitanshparikh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ### 🔝 Featured Repository
 <p align="center">
   <a href="https://github.com/Hitanshparikh/tryon">
