@@ -108,8 +108,9 @@ Email: [hitanshpparikh@gmail.com](mailto:hitanshpparikh@gmail.com)
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hitanshparikh&base=7845&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hitanshparikh&base=7845&color=58a6ff&label=Profile+Views" alt="Profile Views" />
 </p>
+
 
 
 ## 💰 You can help me by Donating
