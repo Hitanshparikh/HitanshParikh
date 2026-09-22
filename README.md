@@ -109,7 +109,7 @@ Email: [hitanshpparikh@gmail.com](mailto:hitanshpparikh@gmail.com)
 
 <p align="center">
   <a href="https://hitanshparikh.com">
-    <img src="https://img.shields.io/badge/LIVE_TRAFFIC-7,845%2B%20IMPRESSIONS-0d1117?style=for-the-badge&logo=prometheus&logoColor=58a6ff&labelColor=161b22" height="36" alt="Live Profile Views" />
+    <img src="https://img.shields.io/badge/LIVE_TRAFFIC-7,845%2B%20Views-0d1117?style=for-the-badge&logo=prometheus&logoColor=58a6ff&labelColor=161b22" height="36" alt="Live Profile Views" />
   </a>
 </p>
 
