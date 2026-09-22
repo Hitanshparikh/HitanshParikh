@@ -65,23 +65,13 @@ Email: [hitanshpparikh@gmail.com](mailto:hitanshpparikh@gmail.com)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitanshparikh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
 
 
-# 📊 GitHub Stats & Activity
-
-<!-- 290-Day Active Streak Badge (Working 100%) -->
+<!-- Full Profile Summary & Contributions -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hitanshparikh&theme=dark&hide_border=false&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hitanshparikh&theme=solarized_dark" alt="Profile Summary" />
 </p>
-
-### 🔝 Featured Repository
+<!-- Top Languages Breakdown -->
 <p align="center">
-  <a href="https://github.com/Hitanshparikh/tryon">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hitanshparikh&repo=tryon&theme=dark&hide_border=false" alt="TryOn Studio" />
-  </a>
-</p>
-
-### 🏆 Languages & Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,react,ts,tailwind,docker,git" alt="Tech Stack" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=Hitanshparikh&theme=solarized_dark" alt="Top Languages" />
 </p>
 
 
