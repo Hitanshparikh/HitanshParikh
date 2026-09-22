@@ -18,8 +18,8 @@ Over 6+ years of experience, Made over 100+ websites, over 30+ proper profession
 [hitanshparikh.com](https://hitanshparikh.com/)
 
 **Best 3D websites I made so far:**
-- [Project 1](https://lnkd.in/duEj5bXr)
-- [Project 2](https://lnkd.in/dtHPMKi5)
+- [Best 3D project](https://lnkd.in/duEj5bXr)
+- [3D SaaS Landing page](https://lnkd.in/dtHPMKi5)
 
 Have freelancing experience over 6 years, only providing best quality with creativity, and immersive experience.
 Have proper professional experience on working with Figma, Framer, Webflow, Spline, canvas, design.com and strong experience with GSAP, Three.JS, WebGL and R3F based animations and elements integration in websites, also have good grip on Node.JS, React, Next.JS, Python, Yolo26, pytorch, also I have good grip on PHP/Laravel, basically I am full stack developer with extremely good level of creativity and already experienced to work with companies. 
