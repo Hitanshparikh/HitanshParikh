@@ -108,9 +108,10 @@ Email: [hitanshpparikh@gmail.com](mailto:hitanshpparikh@gmail.com)
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hitanshparikh&base=7845&color=58a6ff&label=Profile+Views" alt="Profile Views" />
+  <a href="https://hitanshparikh.com">
+    <img src="https://img.shields.io/badge/LIVE_TRAFFIC-7,845%2B%20IMPRESSIONS-0d1117?style=for-the-badge&logo=prometheus&logoColor=58a6ff&labelColor=161b22" height="36" alt="Live Impressions" />
+  </a>
 </p>
-
 
 
 ## 💰 You can help me by Donating
