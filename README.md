@@ -1,4 +1,4 @@
-# Hi, I'm Hitansh Parikh! 🌟
+# Hi, I'm Hitansh Parikh!
 
 “Jack of All Trades, Master of All, oftentimes better than a master of one | Full-Stack Developer | 3D Artist | Animator | Marketing Specialist | Turning Ideas into Impactful Digital Experiences”
 
@@ -24,29 +24,14 @@ Over 6+ years of experience, Made over 100+ websites, over 30+ proper profession
 Have freelancing experience over 6 years, only providing best quality with creativity, and immersive experience.
 Have proper professional experience on working with Figma, Framer, Webflow, Spline, canvas, design.com and strong experience with GSAP, Three.JS, WebGL and R3F based animations and elements integration in websites, also have good grip on Node.JS, React, Next.JS, Python, Yolo26, pytorch, also I have good grip on PHP/Laravel, basically I am full stack developer with extremely good level of creativity and already experienced to work with companies. 
 
-## 🚀 What I Do:
+## What I Do:
 - **Web Development:** Building beautiful, functional websites with a knack for detail and a love for clean code.
 - **3D Art & Animation:** Crafting stunning visuals that bring ideas to life.
 - **Video Creation:** Telling compelling stories through engaging videos.
 - **Graphic Design:** Designing eye-catching graphics that stand out.
 
-## 💡 Currently Learning:
-- Java
-- Django
-- NodeJS
-- NextJS
-- ThreeJS
-- React
-- PHP
-- SQL DBMS
 
-## 🏓 Hobbies:
-- Playing table tennis and chess to keep my mind sharp and active.
-
-## 🍕 Fun Fact:
-- I can hack you
-
-## 📈 Portfolio:
+## Portfolio:
 Explore my projects and see what I’ve been working on: [hitanshparikh.com](https://hitanshparikh.com)
 
 Let's connect and create something amazing together!  
