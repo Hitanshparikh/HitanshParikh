@@ -84,12 +84,22 @@ Email: [hitanshpparikh@gmail.com](mailto:hitanshpparikh@gmail.com)
   </picture>
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Hitanshparikh&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+## 💻 Languages & Tech Stack
 
-### 🏆 Languages & Skills
+### 🚀 Programming Languages (22 Languages)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,react,ts,tailwind,docker,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,cs,java,go,rust,php,html" alt="Languages Row 1" /><br/>
+  <img src="https://skillicons.dev/icons?i=css,sass,mysql,postgres,bash,powershell,r,kotlin,dart,swift,lua" alt="Languages Row 2" />
+</p>
+
+### 🛠️ Frameworks, AI/ML & Libraries (12 Skills)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,react,nextjs,nodejs,express,tailwind,vite,graphql,postman" alt="Frameworks and AI" />
+</p>
+
+### ☁️ Cloud, DevOps, Databases & Tools (12 Skills)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,git,githubactions,linux,mongodb,redis,blender,figma" alt="DevOps and Tools" />
 </p>
 
 ---
