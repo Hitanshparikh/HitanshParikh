@@ -109,9 +109,10 @@ Email: [hitanshpparikh@gmail.com](mailto:hitanshpparikh@gmail.com)
 
 <p align="center">
   <a href="https://hitanshparikh.com">
-    <img src="https://komarev.com/ghpvc/?username=hitanshparikh&base=7845&style=for-the-badge&color=58a6ff&label=LIVE+TRAFFIC" height="34" alt="Live Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=hitanshparikh&base=7845&style=for-the-badge&color=0d1117&label=LIVE+TRAFFIC" height="34" alt="Live Profile Views" />
   </a>
 </p>
+
 
 
 
