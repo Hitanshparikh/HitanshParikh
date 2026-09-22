@@ -108,8 +108,9 @@ Email: [hitanshpparikh@gmail.com](mailto:hitanshpparikh@gmail.com)
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Hitanshparikh&icon=6&color=1" alt="Visitor Counter" /></a>
+  <img src="https://komarev.com/ghpvc/?username=hitanshparikh&base=7845&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
+
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hitanshparikh) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hitanshparikh) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/HitanshParikh)
