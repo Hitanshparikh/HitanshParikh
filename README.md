@@ -65,11 +65,25 @@ Email: [hitanshpparikh@gmail.com](mailto:hitanshpparikh@gmail.com)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitanshparikh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hitanshparikh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# 📊 GitHub Stats & Activity
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hitanshparikh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- 290-Day Active Streak Badge (Working 100%) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hitanshparikh&theme=dark&hide_border=false&cache_seconds=1800" alt="GitHub Streak" />
+</p>
+
+### 🔝 Featured Repository
+<p align="center">
+  <a href="https://github.com/Hitanshparikh/tryon">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hitanshparikh&repo=tryon&theme=dark&hide_border=false" alt="TryOn Studio" />
+  </a>
+</p>
+
+### 🏆 Languages & Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,react,ts,tailwind,docker,git" alt="Tech Stack" />
+</p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hitanshparikh&icon=6&color=1)](https://visitcount.itsvg.in)
