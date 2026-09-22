@@ -69,12 +69,30 @@ Email: [hitanshpparikh@gmail.com](mailto:hitanshpparikh@gmail.com)
 ![](https://github-trophies.vercel.app/?username=Hitanshparikh&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 
-### 🔝 Featured Repository
+## 📊 GitHub Activity
+
 <p align="center">
-  <a href="https://github.com/Hitanshparikh/tryon">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hitanshparikh&repo=tryon&theme=dark&hide_border=false" alt="TryOn Studio" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Hitanshparikh&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hitanshparikh&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=0969da&text_color=24292f&icon_color=0969da" width="47%" alt="github stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProdigyRahul/ProdigyRahul/main/assets/divider-dark.svg" />
+    <img src="https://raw.githubusercontent.com/ProdigyRahul/ProdigyRahul/main/assets/divider-light.svg" height="165" alt="divider" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Hitanshparikh&hide_border=true&background=00000000&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+    <img src="https://streak-stats.demolab.com/?user=Hitanshparikh&hide_border=true&background=00000000&stroke=30363d&ring=0969da&fire=0969da&currStreakLabel=0969da&currStreakNum=24292f&sideLabels=24292f&sideNums=24292f&dates=8b949e" width="47%" alt="github streak" />
+  </picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.vercel.app/graph?username=Hitanshparikh&bg_color=00000000&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true&custom_title=contribution%20activity" />
+    <img src="https://activity-graph.vercel.app/graph?username=Hitanshparikh&bg_color=00000000&color=24292f&line=0969da&point=0969da&area=true&area_color=0969da&hide_border=true&custom_title=contribution%20activity" width="100%" alt="contribution activity" />
+  </picture>
+</p>
+
 ### 🏆 Languages & Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,react,ts,tailwind,docker,git" alt="Tech Stack" />
