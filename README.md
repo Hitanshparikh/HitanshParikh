@@ -32,7 +32,7 @@ Have proper professional experience on working with Figma, Framer, Webflow, Spli
 
 
 ## Portfolio:
-Explore my projects and see what I’ve been working on: [hitanshparikh.com](https://hitanshparikh.com)
+[hitanshparikh.com](https://hitanshparikh.com)
 
 Let's connect and create something amazing together!  
 Email: [hitanshpparikh@gmail.com](mailto:hitanshpparikh@gmail.com)
